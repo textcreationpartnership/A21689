@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Queene. The Queenes Maiestie geueth all maner her subiectes to vnderstande, that of late at Bruges in Flaunders, the commissioners sufficiently aucthorised on the part of her Maiestie, and of the Kyng of Spayne her good brother ...</title>
+            <title>Proclamations. 1566-07-08</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1566</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 3 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21689</idno>
+            <idno type="STC">STC 7997</idno>
+            <idno type="STC">ESTC S112248</idno>
+            <idno type="EEBO-CITATION">99847506</idno>
+            <idno type="PROQUEST">99847506</idno>
+            <idno type="VID">12543</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21689)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 12543)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 455:67)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Queene. The Queenes Maiestie geueth all maner her subiectes to vnderstande, that of late at Bruges in Flaunders, the commissioners sufficiently aucthorised on the part of her Maiestie, and of the Kyng of Spayne her good brother ...</title>
+                  <title>Proclamations. 1566-07-08</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>In Powles Churchyarde, by Rycharde Iugge and Iohn Cawood, Printers to the Queenes Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[1566]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A proclamation about the treaty between England and Spain.</note>
+                  <note>Publication date from STC.</note>
+                  <note>At foot of sheet: Cum priuilegio Regiæ Maiestatis.</note>
+                  <note>Line 1 of text ends: "vnderstande".</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Foreign trade regulations --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Elizabeth, 1558-1603 --  Early works to 1800.</term>
+               <term>England --  Proclamations --  Early works to 1800.</term>
+               <term>Great Britain --  Commerce --  Netherlands --  Early works to 1800.</term>
+               <term>Netherlands --  Commerce --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:12543:1" rendition="simple:additions"/>
+            <head>By the Queene.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Queenes Maieſtie geueth all maner her ſubiectes to vnderſtande, that of late at Bruges in Flaunders, the Commiſſioners ſufficiently aucthoriſed on the part of her Maieſtie, and of the Kyng of Spayne her good brother, haue ſuſpended, proroged, and continued the treatie lately had there for the matters of Entercours of marchaundize, vn<g ref="char:EOLhyphen"/>tyll her Maieſtie and the ſayde Kyng, or eyther of them, ſhall by theyr letters declare to the other, that the prorogation of the ſayde treatie, ſhall ceaſſe and take ende. Duryng whiche tyme, and vntyll the ſayd declaration ſhalbe made, as afore is ſayde, by eyther of the Prynces. it is alſo accorded by the ſayd Commiſſioners, that nothing ſhalbe chaunged concernyng the agreementes for thentercours made heretofore betwixt her Maieſtie, and the Ducheſſe of <hi>Parma</hi> 
+               <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the lowe Countreyes, the .xviii. of December, the yere of our Lorde God. 1564. but that the ſame ſhall remayne ſure and fyrme, and in that ſtate wherin hytherto the ſame hath ben. And that the ſubiectes of both ſides ſhalbe honeſtly, frendly, and fauourably treated. And that it be pro<g ref="char:EOLhyphen"/>uided to haue the Seas kept free from Pyrates. And yf any thyng ſhalbe attempted, contrary to the agreementes, the ſame ſhalbe forthwith remedyed, accordyng to the lawes and thentercours. And yf both the Princes or any one of them, ſhall declare theyr pleaſure to haue the prorogation of the treatie to ceaſſe: In that caſe it ſhalbe lawfull for the Subiectes of eyther Prince, duryng the ſpace of fortie dayes next folowing the knowledge of the ſaid declaration geuen to the other Prince, to depart freely with theyr goodes, wares, and marchaundizes, &amp; to diſpoſe of them at their willes. All which agreementes were alſo ordred by the ſaide Commiſſioners to be notified and proclaymed in the Cities of London and Andwarpe the .xx. of Iuly. For perfourmaunce whereof, her Maie<g ref="char:EOLhyphen"/>ſtie geueth al her Subiectes to vnderſtande the contentes of the premiſſes, to the intent that the en<g ref="char:EOLhyphen"/>tercours and traffike of marchaundize may be continued betwixt her Maieſties dominions, and the lowe Countreyes of the ſayde kyng of Spayne her good brother, and both theyr ſubiectes, as hy<g ref="char:EOLhyphen"/>therto they haue. Whiche her Maieſtie wylleth to be obſerued, vntyll her Maieſtie and the ſayde kyng or eyther of them, accordyng to the agreementes aforeſaid, ſhall declare their pleaſures in any thyng to the contrary.</p>
+            <closer>
+               <dateline>Yeuen at our Manour of Saint Iames, <date>the .viii. day of Iuly, the .viii. yere of our raigne.</date>
+               </dateline>
+            </closer>
+            <closer>GOD ſaue the Queene.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London in Powles Churchyarde, by Rycharde Iugge, and Iohn Cawood, Printers to the Queenes Maieſtie.</p>
+            <p>Cum priuilegio Regiae Maieſtatis.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
